@@ -1,5 +1,5 @@
 
-# Solana State Bloat Research: Advanced Protocol-Level Solutions for Enduring Data Storage
+# Solana State Bloat Research:  Solutions for Enduring Data Storage
 
 ## Summary
 
@@ -33,7 +33,7 @@ The hardware requirements for Solana validators have reached enterprise levels:[
 | **Developers** | - Simple account rent exemption: 0.001-0.01 SOL (~\$0.20-2.00)<br>- Complex application storage costs scaling linearly with data requirements<br>- Frequent complaints on forums about deployment costs exceeding \$300-600 for non-trivial contracts | Rent friction discouraging development and innovation |
 
 
-## Proposed Solutions: Three-Tiered Approach
+## Proposed Solutions: Four-Tiered Approach
 
 ### Solution 1: Tiered State Architecture (TSA)
 
